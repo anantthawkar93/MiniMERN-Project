@@ -1,0 +1,5 @@
+
+{
+    "mongoURI":
+    "mongodb+srv://anantthawkar93:HBtsQPOzCBaCnjzc@cluster0.hzq5l.mongodb.net/my-miniMERN-Project1db?retryWrites=true&w=majority"
+}
